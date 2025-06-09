@@ -21,13 +21,13 @@
         <groupId>org.apache.maevn.plugin</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
-        <configuration>
+        </configuration>
           <source>1.8</source>
           <target>1.8</target>
         <configuration>
+      </plugin>
       <plugin>
-      <plugin>
-        <groupId>org.apache.maevn.plugin</groupId>
+        <groupId>org.apache.maevn.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
         <version>3.2.2</version>
         <configuration>
